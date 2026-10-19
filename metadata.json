@@ -1,0 +1,8 @@
+{
+  "name": "Atelier Noir - Tattoo Drawing & Appointment Studio",
+  "description": "Bespoke tattoo drawing and appointment booking platform with reference inspiration uploads, real-time appointment status tracking, client dashboard, upfront deposit checkout, reviews, and calendar sync.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
